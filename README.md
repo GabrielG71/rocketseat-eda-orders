@@ -17,15 +17,11 @@ Cada linha do dataset representa um cliente que realizou uma compra em janeiro.
 
 O dataset contém variáveis quantitativas e qualitativas para permitir análises numéricas e segmentações por perfil.
 
----
-
 ## Estrutura do Projeto
 
 ├── pedidos.csv
 ├── rocketesat-orders-eda.ipynb
 └── README.md
-
----
 
 ## Dataset
 
